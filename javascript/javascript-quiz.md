@@ -1275,9 +1275,9 @@ console.log(animals.pop()); //Prints jaguar
 ```
 
 - [ ] `animals.filter(e => e === "jaguar");`
-- [ ] `animals.reverse();`
+- [x] `animals.reverse();`
 - [ ] `animals.shift();`
-- [x] `animals.pop();`
+- [ ] `animals.pop();`
 
 [Reference Javascript Array Reverse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
 
